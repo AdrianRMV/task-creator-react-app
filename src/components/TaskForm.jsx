@@ -44,7 +44,7 @@ function TaskForm() {
                 ></textarea>
                 <br />
                 <br />
-                <button className="bg-green-600 text-white rounded-md px-2 py-1 flex mx-auto">
+                <button type='submit' className="bg-green-600 text-white rounded-md px-2 py-1 flex mx-auto">
                     Guardar
                 </button>
             </form>
